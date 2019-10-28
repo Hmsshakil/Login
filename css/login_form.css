@@ -1,0 +1,27 @@
+body{
+    background-repeat:round;
+    margin:200px;
+    background-attachment: fixed;
+}
+input {
+    border-radius: 10px 10px 10px 10px;
+    background-color:blue;
+    margin: auto;
+    color:white;
+    
+    
+}
+fieldset{
+    background-color: ;
+    margin: 0 auto;
+    width:30px;
+    height: 150px;
+    padding:30px;
+    border-radius:10px;
+}
+img{
+    width:90px;
+    height:auto;
+    margin:0 auto;
+    display: block; 
+}
